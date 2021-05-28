@@ -1,7 +1,7 @@
-# Netflix-dio
-###recriando pagina inicial do netflix
+Netflix-dio
+ecriando pagina inicial do netflix
 
-#Tecnologias
-###HTML
-###CSS
-###JAVASCRIPT
+Tecnologias
+HTML
+CSS
+JAVASCRIPT
