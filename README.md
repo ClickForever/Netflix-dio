@@ -1,1 +1,16 @@
-Recriando pagina inicial do netflix
+# Netflix-DIO
+
+### recriando pagina inicial do netflix
+
+
+
+# Tecnologias utilizadas:
+
+### HTML
+
+### CSS
+
+### JAVASCRIPT
+
+
+
